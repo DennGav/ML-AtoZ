@@ -1,6 +1,8 @@
 ## Machine Learning A to Z
 This reposity contains all of the material that was written while I was following along the course on udemy.com titled, ["Machine Learning A-Z™: Hands-On Python & R In Data Science"](https://www.udemy.com/machinelearning/)
 
+<b>NOTE:</b> You will find the .ipynb files to be more descriptive in terms of notes/comments, and they also contain inline rendered plots; thus, they are more visually appealing than their .R file counterparts.
+
 ## Credits
 A huge thank you goes out to Kirill Eremenko, Hadelin de Ponteves, and the SuperDataScience for creating such a great course that provides a well rounded dive into learning a plethora of different machine learning algorithms and use cases. I could not recommend this course enough, and would highly suggest anyone interesting in either data science, or machine learning, or both to register for this course.
 
